@@ -79,7 +79,7 @@ The easiest way to get started is to clone the repository:
 
 ```
 # Get the latest snapshot
-git clone https://github.com/dan5e3s6ares/nodejs-express-mysql.git danielTest
+git clone https://github.com/dan5e3s6ares/testedanielalecsijean.git danielTest
 
 # Change directory
 cd danielTest
