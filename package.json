@@ -1,6 +1,6 @@
 {
   "name": "testedanielalecsijean",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Node.js Restful CRUD API with Node.js, Express and MySQL",
   "main": "server.js",
   "scripts": {
